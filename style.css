@@ -1,0 +1,14 @@
+div {
+    color: black;
+    background-color: rosybrown;
+    font-size: 58px;
+    text-transform: lowercase;
+    text-align:justify;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: oblique;
+}
+div::first-letter{
+    text-transform: uppercase;
+}
+
